@@ -23,7 +23,10 @@ docs/site/
 # environment.
 Manifest.toml
 
+# Jupyter notebooks
+.ipynb_checkpoints
 
+# Temporary ignores
 demo.jl
 Lecture 2
 Lecture 3
