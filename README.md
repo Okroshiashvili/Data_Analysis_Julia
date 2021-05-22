@@ -1,3 +1,3 @@
 # Data Analysis with Julia
 
-The small course about data analysis with Julia
+This is an attempt to convert Python code to Julia [for this course](https://github.com/Okroshiashvili/Data_Analysis_Python)
